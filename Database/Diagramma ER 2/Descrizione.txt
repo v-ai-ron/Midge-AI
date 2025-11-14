@@ -1,0 +1,2 @@
+Questo diagramma rappresenta il "Ristorante".
+Ospita tutti i dati relativi al ristorante.
