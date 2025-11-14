@@ -1,0 +1,2 @@
+Questo diagramma riguarda il database della History Utente.
+Ospita gli ID di tutti gli utenti che usufriscono del servizio e le relative chat
